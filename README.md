@@ -4,7 +4,7 @@
 - :moneybag: I work for [Clevebit Software](https://www.cleverbit.software/)
 - :two_hearts: The main languages I use are C#, JavaScript, SQL, HTML and CSS
 - :relaxed: Libraries I also use are Angular and React
-- :envelope: How to reach me: text me at [drayv.mj12@gmail.com](mailto:drayv.mj12@gmail.com)
+- :envelope: How to reach me: text me at [maksymshchyhol@gmail.com](mailto:maksymshchyhol@gmail.com)
 
 <!--
 **idrayv/idrayv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
