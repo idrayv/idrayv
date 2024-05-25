@@ -1,10 +1,10 @@
 ### Maksym Shchyhol - Hi there 👋
 
-- :shipit: Hi, my name is Maksym, I'm a full-stack developer, team lead, and software enthusiast
-- :moneybag: I work for [Clevebit Software](https://www.cleverbit.software/)
-- :two_hearts: The main languages I use are C#, JavaScript, SQL, HTML and CSS
-- :relaxed: Libraries I also use are Angular and React
-- :envelope: How to reach me: text me at [maksymshchyhol@gmail.com](mailto:maksymshchyhol@gmail.com)
+- :shipit: Hi, I'm Maksym, a full-stack developer, team lead, and software enthusiast
+- :heavy_dollar_sign: I work at [Clevebit Software](https://www.cleverbit.software/)
+- :two_hearts: The main languages I use are C#, JavaScript, SQL, HTML, and CSS
+- :rocket: I build SPAs with Angular and React
+- :email: Email me at [maksymshchyhol@gmail.com](mailto:maksymshchyhol@gmail.com)
 
 <!--
 **idrayv/idrayv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
